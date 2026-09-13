@@ -1,4 +1,9 @@
 {
     "status": "active",
-    "message": ""
+    "message": "",
+    "announcement": {
+        "id": 1789316048,
+        "text": "00000000000000",
+        "type": "success"
+    }
 }
