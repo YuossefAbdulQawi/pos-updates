@@ -1,6 +1,6 @@
 {
-    "status": "active",
-    "message": "",
+    "status": "disabled",
+    "message": "تم الايقاف مؤقت",
     "announcement": {
         "id": 1789316924,
         "text": "......................................",
