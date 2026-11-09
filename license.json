@@ -1,11 +1,11 @@
 {
     "status": "disabled",
     "message": "hi@مرحبا بك",
-    "command_id": 1794244632,
-    "updated_at": "2026-11-09 11:41:33",
+    "command_id": 1794244680,
+    "updated_at": "2026-11-09 12:17:12",
     "announcement": {
-        "id": 1794238164,
-        "text": "تواصل مع المدير",
+        "id": 1794244680,
+        "text": "اهلا",
         "type": "warning"
     },
     "version": {
