@@ -1,12 +1,12 @@
 {
     "status": "active",
     "message": "01214361409",
-    "command_id": 1794767632,
-    "updated_at": "2026-11-15 13:30:22",
+    "command_id": 1794768551,
+    "updated_at": "2026-11-15 13:33:52",
     "announcement": {
-        "id": 1794244680,
-        "text": "اهلا",
-        "type": "warning"
+        "id": 1794768551,
+        "text": "اهلأ بكم في النسخة المحدثة من Gaza POS 01214361409",
+        "type": "success"
     },
     "version": {
         "min_required": "1.0.0",
