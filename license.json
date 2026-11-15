@@ -1,8 +1,8 @@
 {
-    "status": "active",
-    "message": "hi@مرحبا بك",
-    "command_id": 1794763416,
-    "updated_at": "2026-11-15 12:20:22",
+    "status": "disabled",
+    "message": "......................................",
+    "command_id": 1794767337,
+    "updated_at": "2026-11-15 12:23:36",
     "announcement": {
         "id": 1794244680,
         "text": "اهلا",
