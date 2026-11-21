@@ -1,12 +1,12 @@
 {
     "status": "active",
     "message": "01214361409",
-    "command_id": 1794768551,
-    "updated_at": "2026-11-15 13:33:52",
+    "command_id": 1795277403,
+    "updated_at": "2026-11-15 13:49:11",
     "announcement": {
-        "id": 1794768551,
-        "text": "اهلأ بكم في النسخة المحدثة من Gaza POS 01214361409",
-        "type": "success"
+        "id": 1795277403,
+        "text": "يوجد تحديث جديد v.1.8 الرجاء التواصل مع شركة ELmajiku code\r\nرقم الواتساب 01038760075",
+        "type": "warning"
     },
     "version": {
         "min_required": "1.0.0",
